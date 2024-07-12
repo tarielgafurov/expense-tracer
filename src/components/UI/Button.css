@@ -4,6 +4,7 @@ button{
     font-style: italic;
     border-radius: 6px;
     border: none;
+    /* background-color: chartreuse; */
 }
 button:hover{
     background-color: rgb(28, 29, 27);
